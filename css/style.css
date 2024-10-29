@@ -98,7 +98,7 @@ ul {
 .title {
     color: #434851;
     font-weight: bolder;
-    font-size: larger;
+    font-size: large;
 }
 
 .circlecheck {
@@ -119,7 +119,7 @@ ul {
 
 .line {
     color: #434851;
-    font-weight: 50px;
+    font-weight: larger;
     font-size: 15px;
 }
 
