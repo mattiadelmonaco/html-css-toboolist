@@ -9,7 +9,7 @@ RESET
 }
 
 /*----------------
-BODY COMMANDS
+BODY STYLE
 -----------------*/
 
 body {
@@ -18,7 +18,7 @@ body {
 }
 
 /*----------------
-HEADER COMMANDS
+HEADER STYLE
 -----------------*/
 
 header {
@@ -34,4 +34,39 @@ h1 {
     display: inline-block;
     vertical-align: middle;
     font-size: 40px;
+}
+
+/*------------------
+MAIN STYLE
+-------------------*/
+
+.firstblock {
+    background-color: #ffffff;
+    width: 70%;
+    margin: 40px auto;
+    border-top-right-radius: 7px;
+    border-top-left-radius: 7px;
+    padding: 15px;
+    
+}
+
+/*------------------
+BUTTONS STYLE
+-------------------*/
+
+.btn {
+    background-color: transparent;
+    border-radius: 5px;
+    border: 1px solid;
+    padding: 5px;
+}
+
+.btn-color-first {
+    background-color: #14AAF5;
+    border-color: #14AAF5;
+    color: #ffffff;
+}
+
+.btn-color-second {
+    color: #C4CBD0;
 }
