@@ -65,6 +65,7 @@ BUTTONS STYLE
     background-color: #14AAF5;
     border-color: #14AAF5;
     color: #ffffff;
+    margin-left: 40px;
 }
 
 .btn-color-second {
@@ -91,6 +92,7 @@ LIST
 
 ul {
     list-style: none;
+    padding: 25px 40px;
 }
 
 .title {
