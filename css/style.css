@@ -70,3 +70,30 @@ BUTTONS STYLE
 .btn-color-second {
     color: #C4CBD0;
 }
+
+/*-------------------
+SECOND BLOCK
+--------------------*/
+
+.secondblock {
+    background-color: #ffffff;
+    width: 70%;
+    margin: 5px auto;
+    border-bottom-right-radius: 7px;
+    border-bottom-left-radius: 7px;
+    padding: 15px;
+    margin-top: -37px;
+}
+
+/*-----------------
+LIST
+------------------*/
+
+ul {
+    list-style: none;
+}
+
+.title {
+    color: #434851;
+    font-weight: bolder;
+}
