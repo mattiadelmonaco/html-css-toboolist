@@ -102,7 +102,6 @@ ul {
 }
 
 .circlecheck {
-    display: inline-block;
     height: 17px;
     width: 17px;
     border: 1px solid;
@@ -159,7 +158,6 @@ ul {
 }
 
 .circlecross {
-    display: inline-block;
     height: 17px;
     width: 17px;
     border: 1px solid;
