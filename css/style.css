@@ -111,7 +111,7 @@ ul {
     color: green;
 }
 
-#checklist {
+.checklist {
     display: inline-block;
 }
 
@@ -121,7 +121,7 @@ ul {
     font-size: 15px;
 }
 
-#tag {
+.tag {
     color: #ffffff;
     border: 1px solid;
     border-radius: 11px;
