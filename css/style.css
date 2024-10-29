@@ -169,3 +169,7 @@ background-color: #14AAF5;
     border-color: red;
     color: red;
 }
+
+li {
+    padding: 5px 0px;
+}
