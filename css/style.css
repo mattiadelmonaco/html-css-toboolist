@@ -123,13 +123,11 @@ ul {
 
 #tag {
     color: #ffffff;
-    height: 25px;
-    width: 55px;
     border: 1px solid;
     border-radius: 11px;
-    font-size: 9px;
+    font-size: 8px;
     display: inline-block;
-    padding: 5px;
+    padding: 7px 12px;
 }
 
 .tag-blue {
