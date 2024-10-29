@@ -135,7 +135,7 @@ ul {
 }
 
 .tag-blue {
-background-color: #14AAF5;
+    background-color: #14AAF5;
 }
 
 .tag-violet {
@@ -172,5 +172,5 @@ background-color: #14AAF5;
 
 li {
     padding: 5px 0px;
-    font-weight:bold;
+    font-weight: bold;
 }
