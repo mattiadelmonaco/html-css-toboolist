@@ -110,6 +110,7 @@ ul {
     line-height: 17px;
     border-color: green;
     color: green;
+    vertical-align: middle;
 }
 
 .checklist {
@@ -166,6 +167,7 @@ ul {
     line-height: 17px;
     border-color: red;
     color: red;
+    vertical-align: middle;
 }
 
 li {
