@@ -47,7 +47,7 @@ MAIN STYLE
     border-top-right-radius: 7px;
     border-top-left-radius: 7px;
     padding: 15px;
-    
+
 }
 
 /*------------------
@@ -96,4 +96,42 @@ ul {
 .title {
     color: #434851;
     font-weight: bolder;
+    font-size: larger;
+}
+
+.circlecheck {
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    border: 1px solid;
+    border-radius: 100%;
+    text-align: center;
+    line-height: 20px;
+    border-color: green;
+    color: green;
+}
+
+#checklist {
+    display: inline-block;
+}
+
+.line {
+    color: #434851;
+    font-weight: 50px;
+    font-size: 15px;
+}
+
+#tag {
+    color: #ffffff;
+    height: 25px;
+    width: 55px;
+    border: 1px solid;
+    border-radius: 11px;
+    font-size: 9px;
+    display: inline-block;
+    padding: 5px;
+}
+
+.tag-blue {
+background-color: #14AAF5;
 }
